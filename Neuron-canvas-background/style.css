@@ -1,0 +1,22 @@
+/* <==================== Default Style  Start ====================> */
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+/* <==================== Default Style  End ====================> */
+
+/* <==================== Canvas Start ====================> */
+#neuronCanvas {
+  display: block;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+}
+/* <==================== Canvas End ====================> */
